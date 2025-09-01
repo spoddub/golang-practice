@@ -1,4 +1,3 @@
-package golangpractice
 package main
 
 import "fmt"
